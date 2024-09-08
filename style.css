@@ -1,0 +1,91 @@
+/* All Elements */
+
+body {
+    font-family: -apple-system, 'Karla', sans-serif;
+    color: #333;
+    margin: 0;
+    text-align: center;
+}
+
+
+/* Name and Photo Section */
+
+#name {
+    font-family: 'Chela One', cursive;
+    font-size: 5em;
+}
+
+.animate__animated {
+    max-width: 30%;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+    border-radius: 50%;
+}
+
+
+/* Contents Section: About Me, Other Facts, and Work Pieces */
+
+#bg {
+    background-color: burlywood;
+}
+
+h2 {
+    font-family: 'Chela One', cursive;
+    font-size: 3em;
+    color: #4687db;
+    letter-spacing: .5rem;
+    border: #4687db 3px dashed;
+    background-color: whitesmoke;
+}
+
+h2:hover {
+    font-family: 'Chela One', cursive;
+    font-size: 3em;
+    color: #4687db;
+    letter-spacing: .5rem;
+    border: #4687db 3px dashed;
+    background-color: bisque;
+}
+
+h3 {
+    font-family: 'Chela One', cursive;
+}
+
+#mapicon {
+    max-width: 3%;
+}
+
+#aboutme {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50em;
+}
+
+.list {
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35em
+}
+
+ul {
+    font-family: -apple-system, 'Karla', sans-serif;
+}
+
+.workpieces {
+    width: 20%;
+    height: 30%;
+    padding: 2%;
+}
+
+
+/* Footer with additional social links */
+
+footer {
+    background-color: white;
+}
+
+.icon {
+    max-width: 3%;
+}
